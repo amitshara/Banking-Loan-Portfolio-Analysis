@@ -1,0 +1,6 @@
+Problem Statement
+
+The objective of this analysis is to evaluate loan performance,
+identify default trends, and understand borrower behavior using
+the Lending Club dataset (2007–2016). The goal is to uncover
+risk patterns and support better lending decisions.
