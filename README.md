@@ -1,7 +1,7 @@
 # 📊 Loan Portfolio Analytics Dashboard (Power BI)
 
 ## 🚀 Project Overview
-
+ 
 This project analyzes a large-scale loan dataset (2007–2016) to uncover key insights into borrower behavior, loan performance, and default risk. The goal is to transform raw financial data into actionable insights that support better lending decisions.
 
 ---
