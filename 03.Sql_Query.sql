@@ -1,5 +1,5 @@
 -- Solving these EDA Question using PostgreSQL
-
+  
 'Q1.What is the overall default rate?
 Q2.How many loans are issued per term?
 Q3.Default rate by income group
