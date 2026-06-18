@@ -11,7 +11,7 @@ Q8. Default rate by loan amount range
 Q9. Default rate by employment length
 Q10. Default rate by home ownership'
 
-
+ 
 
 
 CREATE TABLE loans1 (
